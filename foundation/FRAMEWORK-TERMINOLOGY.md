@@ -56,7 +56,11 @@ It is the collective engineering understanding of the software system.
 
 ## Architecture
 
-(TODO)
+Architecture is the fundamental organization of a system, defining its structure, relationships, responsibilities and governing principles.
+
+Within the AI Engineering Framework, architecture provides the organizational model for Engineering Knowledge, ensuring consistency, traceability and long-term maintainability.
+
+Architecture guides implementation but remains independent of specific technologies and implementation details.
 
 ## Governance
 
