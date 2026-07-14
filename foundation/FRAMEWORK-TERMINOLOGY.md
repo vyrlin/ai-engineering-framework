@@ -111,7 +111,20 @@ Knowledge Artifacts support understanding and decision-making throughout the sof
 
 ## Implementation Artifact
 
-(TODO)
+An Implementation Artifact is an artifact whose primary purpose is to realize Engineering Knowledge in an executable, deployable or operational form.
+
+Implementation Artifacts include, but are not limited to:
+
+- source code;
+- executable binaries;
+- databases;
+- configuration files;
+- infrastructure definitions;
+- automated tests;
+- build scripts;
+- deployment assets.
+
+Implementation Artifacts implement, validate or support the operation of the software system throughout its lifecycle.
 
 ## Decision
 
