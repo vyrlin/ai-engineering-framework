@@ -123,6 +123,7 @@ The AI Engineering Framework is built upon several fundamental beliefs.
 - Implementation should follow architecture.
 - Artificial Intelligence enhances engineering but does not replace engineering responsibility.
 - Continuous improvement is essential for sustainable software development.
+- Engineering processes should remain as simple as the current project complexity allows.
 
 These beliefs form the philosophical foundation of every standard, workflow and template defined by the Framework.
 
