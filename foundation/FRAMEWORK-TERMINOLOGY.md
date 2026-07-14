@@ -27,7 +27,26 @@
 
 ## Engineering Knowledge
 
-(TODO)
+Engineering Knowledge is the complete set of information required to understand, build, operate, maintain and evolve a software product throughout its entire lifecycle.
+
+Engineering Knowledge includes, but is not limited to:
+
+- product vision;
+- architecture;
+- architectural decisions;
+- business rules;
+- engineering principles;
+- standards;
+- workflows;
+- implementation rationale;
+- design decisions;
+- security decisions;
+- operational experience;
+- historical context.
+
+Engineering Knowledge is not limited to documentation or source code.
+
+It is the collective engineering understanding of the software system.
 
 ## Architecture
 
