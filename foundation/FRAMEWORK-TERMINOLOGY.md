@@ -84,7 +84,13 @@ Architecture guides implementation but remains independent of specific technolog
 
 ## Artifact
 
-(TODO)
+An Artifact is any persistent outcome of an engineering activity that can be created, reviewed, shared, versioned and evolved.
+
+Artifacts may represent knowledge, implementation, validation, configuration, design or operational information.
+
+An artifact may be human-readable, machine-readable or executable.
+
+Artifacts provide the tangible representation of Engineering Knowledge throughout the software lifecycle.
 
 ## Knowledge Artifact
 
