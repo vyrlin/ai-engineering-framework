@@ -94,7 +94,20 @@ Artifacts provide the tangible representation of Engineering Knowledge throughou
 
 ## Knowledge Artifact
 
-(TODO)
+A Knowledge Artifact is an artifact whose primary purpose is to capture, communicate, preserve or evolve Engineering Knowledge.
+
+Knowledge Artifacts include, but are not limited to:
+
+- architecture documents;
+- standards;
+- workflows;
+- templates;
+- architectural decision records (ADRs);
+- specifications;
+- design documents;
+- review reports.
+
+Knowledge Artifacts support understanding and decision-making throughout the software lifecycle.
 
 ## Implementation Artifact
 
