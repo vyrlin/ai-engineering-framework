@@ -66,3 +66,33 @@ Knowledge Artifacts preserve understanding.
 Implementation Artifacts deliver working software.
 
 Together they ensure that software systems remain understandable, maintainable and continuously evolvable.
+
+---
+
+# 5. The Role of Architecture
+
+Architecture provides the organizational structure for Engineering Knowledge.
+
+It defines how knowledge is organized, how responsibilities are separated, how engineering decisions relate to one another and how software systems evolve without losing consistency.
+
+Within the AI Engineering Framework, architecture precedes implementation.
+
+Implementation technologies, programming languages and tools may change throughout the lifetime of a project.
+
+Architecture provides the continuity that enables long-term evolution while preserving Engineering Knowledge.
+
+For this reason, the Framework treats architecture as a strategic engineering discipline rather than a description of software components alone.
+
+---
+
+# 6. The Role of Artificial Intelligence
+
+Artificial Intelligence is an engineering capability that enhances, but does not replace, software engineering.
+
+Within the AI Engineering Framework, AI assists engineers by accelerating implementation, analyzing existing systems, generating engineering artifacts and supporting planning, reviews and documentation.
+
+Engineering responsibility, architectural decisions and product ownership always remain with humans.
+
+The Framework is intentionally independent of any specific AI model, vendor or implementation technology.
+
+Artificial Intelligence is expected to evolve continuously, while the engineering principles of the Framework remain stable.
