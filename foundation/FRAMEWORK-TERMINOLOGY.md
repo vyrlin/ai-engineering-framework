@@ -19,7 +19,13 @@
 
 ## Framework
 
-(TODO)
+A Framework is a structured engineering system that defines principles, architecture, governance, standards, workflows and reusable artifacts for achieving consistent and predictable outcomes within a specific domain.
+
+The AI Engineering Framework is a knowledge-driven engineering framework.
+
+Its primary purpose is to create, preserve and continuously evolve Engineering Knowledge throughout the entire software lifecycle.
+
+The Framework defines how software is engineered rather than prescribing specific technologies, programming languages or implementation tools.
 
 ## Engineering
 
