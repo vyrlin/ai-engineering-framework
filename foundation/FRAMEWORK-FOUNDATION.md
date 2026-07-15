@@ -97,6 +97,40 @@ The Framework is intentionally independent of any specific AI model, vendor or i
 
 Artificial Intelligence is expected to evolve continuously, while the engineering principles of the Framework remain stable.
 
+### Explicit Execution Context
+
+Every reusable instruction prepared by an AI assistant MUST explicitly specify two attributes:
+
+**1. Execution Target**
+
+The instruction must clearly identify where it is intended to be executed or used.
+
+Examples:
+
+- Codex
+- ChatGPT
+- Terminal (PowerShell)
+- VS Code
+- Framework Document
+- Project Document
+- End User
+
+**2. Required Action**
+
+The instruction must explicitly state what the human is expected to do.
+
+Examples:
+
+- Copy and send to Codex.
+- Execute in PowerShell.
+- Add to FRAMEWORK-FOUNDATION.md.
+- Use as the first prompt of a new ChatGPT session.
+- Save as a project document.
+
+Reusable instructions without an explicit execution target and required action are considered incomplete.
+
+The purpose of this principle is to eliminate ambiguity, reduce human error, and make collaboration between Human, ChatGPT and other AI tools deterministic and predictable.
+
 ---
 
 # 7. Continuous Evolution
