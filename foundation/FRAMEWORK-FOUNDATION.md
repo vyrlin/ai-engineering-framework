@@ -145,6 +145,26 @@ Every completed engineering activity should improve, refine or expand the projec
 
 Continuous evolution ensures that software remains understandable, maintainable and adaptable throughout its lifecycle.
 
+### Design for Evolution
+
+Engineering systems should always be designed to support future evolution.
+
+However, only the functionality, abstractions and complexity required for the current stage of the project should be implemented.
+
+Avoid premature optimization, speculative architecture and unnecessary abstractions.
+
+A good architecture preserves the possibility of future growth without implementing the future in advance.
+
+The objective is to minimize unnecessary complexity while keeping the system extensible.
+
+This principle complements:
+
+- Architecture First
+- Structure before Details
+- One Logical Step = One Commit
+
+It encourages incremental evolution instead of premature perfection.
+
 ---
 
 # 8. Foundation Principles
