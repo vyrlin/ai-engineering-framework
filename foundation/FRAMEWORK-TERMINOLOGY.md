@@ -76,15 +76,21 @@ Architecture guides implementation but remains independent of specific technolog
 
 ## Principle
 
-(TODO)
+A Principle is a fundamental rule that establishes the rationale and direction for engineering decisions.
+
+A Principle answers why a particular engineering approach is followed.
 
 ## Standard
 
-(TODO)
+A Standard is a mandatory normative rule that establishes requirements an engineering result or process must satisfy.
+
+A Standard answers which requirements a solution must meet.
 
 ## Workflow
 
-(TODO)
+A Workflow is an established sequence of actions performed to achieve a defined engineering result.
+
+A Workflow answers in what order the work is performed.
 
 ## Template
 
