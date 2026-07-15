@@ -17,15 +17,23 @@
 
 # Core Terms
 
+## Product
+
+A Product is an engineered outcome that provides value to its users through the capabilities it makes available.
+
+A Product exists independently of the temporary activities, teams and processes used to create, modify, operate or evolve it.
+
+## Project
+
+A Project is a temporary, organized engineering effort undertaken to create, modify or evolve a Product.
+
+A Project has a defined objective and boundaries and ends when its objective is completed or the effort is terminated. The Product may continue to exist and evolve after the Project ends.
+
 ## Framework
 
-A Framework is a structured engineering system that defines principles, architecture, governance, standards, workflows and reusable artifacts for achieving consistent and predictable outcomes within a specific domain.
+A Framework is an engineering system of principles, architecture, standards, processes and Engineering Knowledge used to guide and govern Projects.
 
-The AI Engineering Framework is a knowledge-driven engineering framework.
-
-Its primary purpose is to create, preserve and continuously evolve Engineering Knowledge throughout the entire software lifecycle.
-
-The Framework defines how software is engineered rather than prescribing specific technologies, programming languages or implementation tools.
+A Framework provides reusable structure for engineering work without prescribing a specific Product or implementation technology. The AI Engineering Framework is neither an end-user Product nor a temporary Project.
 
 ## Engineering
 
